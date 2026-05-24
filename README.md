@@ -1,54 +1,110 @@
+<div align="center">
+
 # Hey, I'm Amit 👋
+### ML Engineer · Data Scientist · AI Enthusiast
 
-I'm an ML Engineer from India — I build models that actually work on messy, real-world data.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+ML+models+that+actually+work;XGBoost+%7C+Deep+Learning+%7C+Time+Series;Open+to+remote+roles+%26+freelance+work)](https://git.io/typing-svg)
 
-Recently completed a Post Graduate program in Data Science & Generative AI (IIT Indore × Intellipaat).
-Currently doing an ML internship and actively looking for **remote ML/AI roles** and **freelance data science projects**.
-
----
-
-## 🛠️ What I work with
-
-**ML & AI** — XGBoost, Random Forest, AdaBoost, Decision Trees, KNN, Naive Bayes, K-Means  
-**Deep Learning** — TensorFlow, Keras (ANN, classification & regression)  
-**Time Series** — ARIMA, SARIMA, Prophet, XGBoost with lag features  
-**Data** — Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-**Other** — Streamlit, SMOTE, Jupyter Notebook, Git
+</div>
 
 ---
 
-## 🚀 Projects
+## 🙋 About Me
 
-### 🍔 [AI Demand Forecasting & Inventory Optimization](https://github.com/am1t-verma/AI_Demand_Forecasting_and_Inventory_Optimization)
-Food delivery demand forecasting using XGBoost with lag features and time-based train/test splits.  
-Global model approach — `center_id` and `meal_id` treated as features.
+I'm an ML Engineer from India building models on real, messy data.  
+PG in Data Science & Generative AI — **IIT Indore × Intellipaat (2025)**  
+Currently interning in ML and actively looking for **remote ML/AI roles** and **freelance projects**.
 
-### 🤖 [Machine Learning Implementations](https://github.com/am1t-verma/Mechine-Learning)
-Hands-on implementations of 8+ ML algorithms on real datasets.
-
-| Algorithm | Dataset | Result |
-|---|---|---|
-| Linear Regression | Insurance | R² = 0.963 |
-| Logistic Regression | Bank Marketing | Accuracy = 89.7% |
-| Random Forest | Customer Churn | ROC-AUC = 0.777 |
-| Decision Tree | Heart Disease | Accuracy = 77% |
-
-### 🐍 [140 Python Programs](https://github.com/am1t-verma/140-Python-Programs)
-Daily coding challenge — 2 problems/day. Built to sharpen logic and core Python.
+- 🔭 Working on: Fraud Detection pipeline + Customer Churn ANN
+- 🌱 Learning: Deep Learning, Deployment, SQL
+- 💬 Ask me about: XGBoost, imbalanced datasets, time series forecasting
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/amitverma-) · [Email](mailto:amitjcdv@gmail.com)
 
 ---
 
-## 📌 Currently working on
+## 🛠️ Tech Stack
 
-- 🔧 Fraud detection pipeline (XGBoost + SMOTE + Streamlit) on a 171:1 imbalanced dataset
-- 🧠 Customer churn ANN in TensorFlow/Keras
-- 📈 Pushing demand forecasting model R² above 0.80
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Let's connect
+## 🚀 Featured Projects
 
-Open to **remote internships**, **entry-level ML roles**, and **freelance data projects**.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amitverma-)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:amitjcdv@gmail.com)
+[![Demand Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=am1t-verma&repo=AI_Demand_Forecasting_and_Inventory_Optimization&theme=tokyonight)](https://github.com/am1t-verma/AI_Demand_Forecasting_and_Inventory_Optimization)
+[![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=am1t-verma&repo=Machine-Learning&theme=tokyonight)](https://github.com/am1t-verma/Machine-Learning)
+
+</div>
+
+### 🍔 AI Demand Forecasting & Inventory Optimization
+> XGBoost · Lag Features · Time-Series Split · Global Model
+
+Food delivery demand forecasting across multiple restaurants and meal types.  
+Treated `center_id` & `meal_id` as features — single global model beats per-store models.
+
+### 🔍 Fraud Detection Pipeline *(in progress)*
+> XGBoost · SMOTE · Streamlit · 171:1 class imbalance
+
+Full end-to-end pipeline on a severely imbalanced fraud dataset.  
+Using `scale_pos_weight`, threshold tuning via `predict_proba`, and RandomizedSearchCV.
+
+### 🧠 Customer Churn ANN *(in progress)*
+> TensorFlow · Keras · Classification
+
+Deep learning model for churn prediction — hands-on backpropagation + Keras pipeline.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=am1t-verma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am1t-verma&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=am1t-verma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=am1t-verma&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=am1t-verma&color=6AD3F7&style=flat-square&label=Profile+Views)
+
+*Open to remote internships, entry-level ML roles, and freelance data projects.*
+
+</div>
